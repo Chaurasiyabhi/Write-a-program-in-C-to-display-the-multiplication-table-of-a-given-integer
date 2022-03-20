@@ -1,0 +1,1 @@
+# Write-a-program-in-C-to-display-the-multiplication-table-of-a-given-integer
